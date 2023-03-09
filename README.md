@@ -5,15 +5,14 @@ I code for fun and for a living. I love seeing pretty things come to life and be
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<!--START_SECTION:readme-info-->
+<!--END_SECTION:readme-info-->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/acharlop/acharlop/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/acharlop/acharlop/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/acharlop/acharlop/output/github-contribution-grid-snake.svg">
 </picture>
-
-<br />
-
-![follow me on twitter](https://img.shields.io/twitter/follow/acharlop?logo=twitter&style=for-the-badge)
 
 <br />
 
