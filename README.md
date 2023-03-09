@@ -1,6 +1,11 @@
 ![banner](assets/banner.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&pause=1000&color=F9D75F&multiline=true&width=435&height=70&lines=I+turn+ideas+into+digital+solutions%2C;One+line+of+code+at+a+time.)](https://git.io/typing-svg)
 
-I code for fun and for a living. I love seeing pretty things come to life and be used to make peoples lives better. Currently building [WhoCards](https://whocards.cc) while I get settled in Berlin. Learning [Astro](https://astro.build).
+I love being a part of bold ideas turning into pretty designs and make them come to life to be used to make peoples lives better.
+
+:hammer: Currently building [WhoCards](https://whocards.cc)<br />
+:house: while I get settled in Berlin.<br />
+:book: Learning [Astro](https://astro.build).
 
 <!--START_SECTION:waka-->
 
