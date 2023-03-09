@@ -1,6 +1,6 @@
-## Hi there 👋 my name is Avi
+![banner](assets/banner.png)
 
-I code for fun and for a living. I love seeing pretty things come to life and be used to make peoples lives better. 
+I code for fun and for a living. I love seeing pretty things come to life and be used to make peoples lives better. Currently building [WhoCards](https://whocards.cc) while I get settled in Berlin. Learning [Astro](https://astro.build).
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -15,7 +15,9 @@ I code for fun and for a living. I love seeing pretty things come to life and be
 
 ![follow me on twitter](https://img.shields.io/twitter/follow/acharlop?logo=twitter&style=for-the-badge)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=acharlop&theme=matrix)](https://github.com/acharlop/github-profile-trophy)
+<br />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=acharlop&theme=matrix&row=2&column=3)](https://github.com/acharlop/github-profile-trophy)
 
 | GitHub Stats  | GitHub Streak           |
 | ------- | ---------------- |

@@ -12,6 +12,8 @@ jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
       - uses: athul/waka-readme@master
         with:
