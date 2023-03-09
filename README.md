@@ -3,6 +3,18 @@
 I code for fun and for a living. I love seeing pretty things come to life and be used to make peoples lives better. Currently building [WhoCards](https://whocards.cc) while I get settled in Berlin. Learning [Astro](https://astro.build).
 
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 2 hrs 1 min
+
+Markdown     1 hr 12 mins    ██████████████▓░░░░░░░░░░   58.22 %
+YAML         26 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.72 %
+Astro        9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+JSON         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+INI          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+TypeScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:readme-info-->
