@@ -1,7 +1,7 @@
 ![banner](assets/banner.png)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&pause=1000&color=F9D75F&multiline=true&width=435&height=70&lines=I+turn+ideas+into+digital+solutions%2C;One+line+of+code+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&pause=1000&color=F9D75F&width=435&lines=I+turn+ideas+into+digital+solutions%2C;One+line+of+code+at+a+time.)](https://git.io/typing-svg)
 
-I love being a part of bold ideas turning into pretty designs and make them come to life to be used to make peoples lives better.
+I love being a part of bold ideas turning into beautiful designs and make them come to life and be used to make peoples lives better.
 
 :hammer: Currently building [WhoCards](https://whocards.cc)<br />
 :house: while I get settled in Berlin.<br />
