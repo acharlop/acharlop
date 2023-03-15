@@ -10,14 +10,14 @@ I love being a part of bold ideas turning into beautiful designs and make them c
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 3 hrs 58 mins
+Total Time: 4 hrs 38 mins
 
-Markdown     1 hr 37 mins    ██████████░░░░░░░░░░░░░░░   40.48 %
-Astro        57 mins         ██████░░░░░░░░░░░░░░░░░░░   23.90 %
-YAML         53 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.12 %
-JavaScript   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
-JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-INI          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Markdown     1 hr 37 mins    ████████▓░░░░░░░░░░░░░░░░   34.60 %
+Astro        57 mins         █████░░░░░░░░░░░░░░░░░░░░   20.43 %
+YAML         53 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
+TypeScript   43 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
+JavaScript   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->
