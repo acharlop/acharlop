@@ -12,7 +12,7 @@ I love being a part of bold ideas turning into beautiful designs and make them c
 ```text
 Total Time: 0 secs
 
-Other   2 mins          ██████████████████▒░░░░░░   72.99 %
+Other   2 mins          ████████████████████████▓   98.44 %
 ```
 
 <!--END_SECTION:waka-->
