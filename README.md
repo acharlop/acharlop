@@ -10,10 +10,9 @@ I love being a part of bold ideas turning into beautiful designs and make them c
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 mins
+Total Time: 0 secs
 
-TOML         4 mins          ████████████████████▒░░░░   81.52 %
-TypeScript   0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
