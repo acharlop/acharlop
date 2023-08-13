@@ -3,9 +3,9 @@
 
 I love being a part of bold ideas turning into beautiful designs and make them come to life and be used to make peoples lives better.
 
-:hammer: Currently building [WhoCards](https://whocards.cc)<br />
+:hammer: Currently building [WhoCards](https://whocards.cc) and [J3D.ai](https://j3d.ai)<br />
 :house: while I get settled in Berlin.<br />
-:book: Learning [Astro](https://astro.build).
+:book: Learning [Astro](https://astro.build) and [T3 stack](https://create.t3.gg/).
 
 <!--START_SECTION:waka-->
 
