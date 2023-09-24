@@ -4,9 +4,15 @@ on:
   workflow_dispatch: # for manual workflow trigger
   schedule:
     - cron: "0 0 * * *" # runs at every 12AM UTC
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
 
 jobs:
   generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
