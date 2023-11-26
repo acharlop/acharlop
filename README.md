@@ -10,13 +10,13 @@ I love being a part of bold ideas turning into beautiful designs and make them c
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 19 hrs 48 mins
+Total Time: 27 hrs 59 mins
 
-YAML             12 hrs 48 mins  ███████████████▒░░░░░░░░░   61.45 %
-JSON             3 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.01 %
-TypeScript       1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-Bash             1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-Other            1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+YAML             18 hrs 5 mins   ███████████████▒░░░░░░░░░   61.66 %
+JSON             4 hrs 19 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
+TypeScript       2 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Other            1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Bash             1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 ```
 
 <!--END_SECTION:waka-->
