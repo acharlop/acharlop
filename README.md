@@ -10,13 +10,13 @@ I love being a part of bold ideas turning into beautiful designs and make them c
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 34 hrs 24 mins
+Total Time: 29 hrs 46 mins
 
-YAML         15 hrs 7 mins   ██████████▒░░░░░░░░░░░░░░   41.68 %
-Bash         6 hrs           ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
-JSON         3 hrs 58 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
-Astro        2 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
-Other        1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+YAML         9 hrs 13 mins   ███████▒░░░░░░░░░░░░░░░░░   29.20 %
+Bash         7 hrs 31 mins   ██████░░░░░░░░░░░░░░░░░░░   23.80 %
+JSON         4 hrs 31 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
+Astro        2 hrs 51 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+Other        1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
 ```
 
 <!--END_SECTION:waka-->
