@@ -12,9 +12,9 @@ I love being a part of bold ideas turning into beautiful designs and make them c
 ```txt
 Total Time: 16 hrs 24 mins
 
-TypeScript   15 hrs 23 mins  ███████████████████████▒░   93.75 %
+TypeScript   15 hrs 22 mins  ███████████████████████▒░   93.75 %
 MDX          33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 Markdown     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 Astro        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
