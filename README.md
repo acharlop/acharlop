@@ -10,13 +10,13 @@ I love being a part of bold ideas turning into beautiful designs and make them c
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 28 hrs 23 mins
+Total Time: 27 hrs 4 mins
 
-TypeScript   24 hrs 57 mins  ██████████████████████░░░   87.37 %
-Astro        1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-JSON         1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-JavaScript   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-Bash         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+TypeScript   24 hrs 15 mins  ██████████████████████▒░░   89.03 %
+JavaScript   53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+JSON         48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Astro        40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Bash         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
