@@ -10,9 +10,9 @@ I love being a part of bold ideas turning into beautiful designs and make them c
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 20 hrs 48 mins
+Total Time: 20 hrs 47 mins
 
-TypeScript    18 hrs 36 mins  ██████████████████████▒░░   89.29 %
+TypeScript    18 hrs 35 mins  ██████████████████████▒░░   89.29 %
 SCSS          1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
 JavaScript    32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 JSON          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
