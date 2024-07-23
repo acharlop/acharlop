@@ -12,10 +12,10 @@ I love being a part of bold ideas turning into beautiful designs and make them c
 ```txt
 Total Time: 28 hrs 17 mins
 
-TypeScript   26 hrs 36 mins  ███████████████████████░░   92.56 %
+TypeScript   26 hrs 36 mins  ███████████████████████░░   92.42 %
 MDX          40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Other        26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Python       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Other        29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Python       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 Text         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
