@@ -3,9 +3,14 @@
 
 I love being a part of bold ideas turning into beautiful designs and make them come to life and be used to make peoples lives better.
 
-:hammer: Currently building [WhoCards](https://whocards.cc) and [J3D.ai](https://j3d.ai)<br />
-:house: while I get settled in Berlin.<br />
+:hammer: Currently building [WhoCards](https://whocards.cc)<br />
+:house: while I get settled in Hungary.<br />
 :book: Learning [Astro](https://astro.build) and [T3 stack](https://create.t3.gg/).
+:office: Some projects and companies I've worked with:
+- [Collect.AI](https://collect.ai) :wave:
+- [J3D.ai](https://j3d.ai)
+- [The Hero NFT](https://circa.art/products/marina_abramovic/)
+- [Net2phone](https://www.net2phone.com/)
 
 <!--START_SECTION:waka-->
 
