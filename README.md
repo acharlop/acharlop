@@ -5,8 +5,8 @@ I love being a part of bold ideas turning into beautiful designs and make them c
 
 :hammer: Currently building [WhoCards](https://whocards.cc)<br />
 :house: while I get settled in Hungary.<br />
-:book: Learning [Astro](https://astro.build) and [T3 stack](https://create.t3.gg/).
-:office: Some projects and companies I've worked with:
+:book: Learning [Astro](https://astro.build) and [T3 stack](https://create.t3.gg/).<br />
+:computer: Some projects and companies I've worked with:
 
 - [Collect.AI](https://collect.ai) :wave:
 - [J3D.ai](https://j3d.ai)
