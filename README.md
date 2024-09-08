@@ -16,10 +16,9 @@ I love being a part of bold ideas turning into beautiful designs and make them c
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 mins
+Total Time: 0 secs
 
-Markdown   8 mins          ██████████████▓░░░░░░░░░░   58.19 %
-Other      6 mins          ██████████▒░░░░░░░░░░░░░░   41.81 %
+Other   6 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
