@@ -18,11 +18,10 @@ I love being a part of bold ideas turning into beautiful designs and make them c
 ```txt
 Total Time: 3 mins
 
-Other        9 mins          ██████████████████▒░░░░░░   73.50 %
-JavaScript   1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
-JSON         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
-TSConfig     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-Astro        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+JavaScript   1 min           ████████████░░░░░░░░░░░░░   48.31 %
+JSON         1 min           ████████░░░░░░░░░░░░░░░░░   32.02 %
+TSConfig     0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.45 %
+Astro        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 ```
 
 <!--END_SECTION:waka-->
