@@ -16,13 +16,13 @@ I love being a part of bold ideas turning into beautiful designs and make them c
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 23 hrs 41 mins
+Total Time: 25 hrs 5 mins
 
-TypeScript    20 hrs 21 mins  ████████████████████▓░░░░   82.22 %
-Go            1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-Other         1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-Markdown      36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-Bash          32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+TypeScript    16 hrs 45 mins  ████████████████▒░░░░░░░░   65.11 %
+Go            6 hrs 36 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.65 %
+Other         39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Markdown      34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Bash          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
