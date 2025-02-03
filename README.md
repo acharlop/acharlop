@@ -18,8 +18,8 @@ I love being a part of bold ideas turning into beautiful designs and make them c
 ```txt
 Total Time: 6 hrs 25 mins
 
-TypeScript    5 hrs 22 mins   ██████████████████▒░░░░░░   73.37 %
-Other         53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
+TypeScript    5 hrs 22 mins   ██████████████████▒░░░░░░   73.38 %
+Other         53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
 JSON          24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
 SSH Config    10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 Image (svg)   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
