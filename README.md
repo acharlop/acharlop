@@ -16,13 +16,13 @@ I love being a part of bold ideas turning into beautiful designs and make them c
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 51 hrs 7 mins
+Total Time: 54 hrs 16 mins
 
-TypeScript   47 hrs 19 mins  ██████████████████████░░░   88.14 %
-Other        2 hrs 34 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-JSON         1 hr 59 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-TSConfig     25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-YAML         15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+TypeScript   46 hrs 34 mins  ████████████████████░░░░░   80.66 %
+Other        3 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+JSON         3 hrs 23 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Markdown     1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+Terraform    1 hr 3 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```
 
 <!--END_SECTION:waka-->
