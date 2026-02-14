@@ -16,10 +16,11 @@ I love being a part of bold ideas turning into beautiful designs and make them c
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 min
+Total Time: 15 mins
 
-TypeScript   1 min           █████████████████████░░░░   84.40 %
-SQL          0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
+Astro        7 mins          █████████████░░░░░░░░░░░░   51.40 %
+TypeScript   7 mins          ███████████▓░░░░░░░░░░░░░   47.05 %
+SQL          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->
