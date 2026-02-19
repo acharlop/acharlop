@@ -18,8 +18,8 @@ I love being a part of bold ideas turning into beautiful designs and make them c
 ```txt
 Total Time: 13 mins
 
-Astro        7 mins          ██████████████▒░░░░░░░░░░   57.07 %
-TypeScript   5 mins          ██████████▓░░░░░░░░░░░░░░   42.93 %
+Astro        7 mins                ██████████████▒░░░░░░░░░░   57.07 %
+TypeScript   5 mins                ██████████▓░░░░░░░░░░░░░░   42.93 %
 ```
 
 <!--END_SECTION:waka-->
