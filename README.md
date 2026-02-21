@@ -16,10 +16,9 @@ I love being a part of bold ideas turning into beautiful designs and make them c
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13 mins
+Total Time: 0 secs
 
-Astro        7 mins                ██████████████▒░░░░░░░░░░   57.07 %
-TypeScript   5 mins                ██████████▓░░░░░░░░░░░░░░   42.93 %
+Markdown   0 secs                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
