@@ -46,12 +46,13 @@ Available for selective opportunities. "Selective" means interesting people and 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 15 mins
+Total Time: 52 mins
 
-Astro      40 mins               █████████████▒░░░░░░░░░░░   53.75 %
-Markdown   34 mins               ███████████▒░░░░░░░░░░░░░   45.35 %
-Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-YAML       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Markdown     34 mins               ████████████▓░░░░░░░░░░░░   50.74 %
+Other        15 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.45 %
+HTML         7 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
+CSS          5 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
+JavaScript   3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 ```
 
 <!--END_SECTION:waka-->
