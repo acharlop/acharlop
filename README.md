@@ -46,13 +46,13 @@ Available for selective opportunities. "Selective" means interesting people and 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 53 hrs 19 mins
+Total Time: 57 hrs 48 mins
 
-TypeScript   19 hrs 5 mins         ███████▓░░░░░░░░░░░░░░░░░   31.08 %
-Markdown     10 hrs 53 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
-Other        8 hrs 5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
-JavaScript   6 hrs 9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
-JSON         4 hrs 38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+TypeScript   24 hrs 24 mins        █████████▓░░░░░░░░░░░░░░░   38.02 %
+Markdown     10 hrs 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
+Other        6 hrs 22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+Diff         5 hrs 52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
+JavaScript   5 hrs 41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
 ```
 
 <!--END_SECTION:waka-->
